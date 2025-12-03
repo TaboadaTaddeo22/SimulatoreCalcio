@@ -63,6 +63,10 @@ public class Giocatore {
         return Objects.equals(this.cognome, other.cognome);
     }
 
+    /**
+     * 
+     * @return 
+     */
     @Override
     public String toString() {
         return nome + " " + cognome + ", " + forza + " di forza";
