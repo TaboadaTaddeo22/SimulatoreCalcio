@@ -9,5 +9,5 @@ package simulatorecalcio;
  * @author casolaro.diego
  */
 public class Giocatore {
-    
+    protected String nome;
 }
